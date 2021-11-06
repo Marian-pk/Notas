@@ -1,0 +1,26 @@
+[
+ {
+  "titulo": "Tabajar",
+  "estado": "Terminada"
+ },
+ {
+  "titulo": "Cenar",
+  "estado": "En progreso"
+ },
+ {
+  "titulo": "Estudiar",
+  "estado": "Pendiente"
+ },
+ {
+  "titulo": "Java",
+  "estado": "Pendiente"
+ },
+ {
+  "titulo": "Java",
+  "estado": "Pendiente"
+ },
+ {
+  "titulo": "Una nueva tarea",
+  "estado": "Pendiente"
+ }
+]
